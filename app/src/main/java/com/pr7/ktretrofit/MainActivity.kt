@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-       getPostsCall()
+       getPostsCall()//?
 
 //999572680 
 
