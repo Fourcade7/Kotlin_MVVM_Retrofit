@@ -13,11 +13,10 @@
     }
     
     
-    interface Api {
+interface Api {
 
     @GET("posts")
     fun getPosts():Call<ArrayList<PostResponse>>
-
-    }
+}
     
    
